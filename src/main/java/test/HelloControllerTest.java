@@ -1,4 +1,4 @@
-package Tests;
+package test;
 
 import hello.HelloController;
 import org.junit.Before;

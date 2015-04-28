@@ -1,4 +1,4 @@
-package Tests;
+package test;
 
 import hello.GreetingController;
 import org.junit.Before;
