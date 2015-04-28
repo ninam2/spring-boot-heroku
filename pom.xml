@@ -6,7 +6,7 @@
     <groupId>org.springframework</groupId>
     <artifactId>gs-spring-boot</artifactId>
     <packaging>pom</packaging>
-    <version>1.1.1</version>
+    <version>1.1-SNAPSHOT</version>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
