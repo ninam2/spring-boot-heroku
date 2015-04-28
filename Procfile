@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -Dspring.profiles.active=heroku -jar gs-spring-boot/target/gs-spring-boot-1.1-SNAPSHOT.jar
